@@ -21,7 +21,7 @@ A structure-aware neighborhood construction method for point clouds.
 #### 2.) Create conda environment from yml file
 ```conda env create -f crg.yml```
 
-#### 3.) Activate ebvironment
+#### 3.) Activate environment
 ```conda activate crg```
 
 #### 4.) Run test.py to explore an interactive example
