@@ -2,7 +2,11 @@
 
 ### About
 
-This a neighborhood construction method for point clouds. The neighborhood is constrained by the orientation differences and connectivity between points.
+This is the source code to:
+
+Hess, Rheinwalt, Bookhagen (2025): Refining point-cloud neighborhood construction for improved classification, Science of Remote Sensing, https://doi.org/10.1016/j.srs.2025.100325
+
+A structure-aware neighborhood construction method for point clouds.
 
 ---
 
