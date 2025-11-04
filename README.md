@@ -14,7 +14,7 @@ A structure-aware neighborhood construction method for point clouds.
 
 
 #### 1.) Clone repository
-```git clone https://github.com/yourusername/Constrained-Region-Growing-Neighborhood.git```
+```git clone https://github.com/UP-RS-ESP/Constrained-Region-Growing-Neighborhood.git```
 
 ```cd Constrained-Region-Growing-Neighborhood```
 
